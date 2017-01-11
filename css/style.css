@@ -1,0 +1,875 @@
+.site {
+    width: 1000px;
+    height: 1310px;
+    margin: 0 auto;
+    background: white;
+}
+.number {
+    margin: 22px;
+    padding-left: 30px;
+}
+.logmenu {
+    width: 495px;
+    height: 25px;
+    background-image: linear-gradient(180deg, #206988 0%, #114165 59%, #0c3256 100%);
+    box-shadow: 1.5px 2.6px 3px rgba(150, 150, 150, 0.75);
+    border-radius: 4px 4px 4px 4px;
+    margin: -51px;
+    margin-left: 359px;
+    border-top: 1px solid #a6c3cf;
+}
+.minil {
+    position: absolute;
+    left: 819px;
+    top: 22px;
+    width: 13px;
+    height: 17px;
+}
+.login {
+    width: 109px;
+    height: 13px;
+    border: 1px solid grey;
+    margin: 3px;
+    border-radius: 1px 1px 1px 1px;
+    margin-left: 24px;
+    padding-left: 4px;
+    font-size: 11px;
+}
+.password {
+    height: 13px;
+    border: 1px solid grey;
+    margin: 3px;
+    margin-left: 0px;
+    width: 108px;
+    font-size: 11px;
+    padding-left: 4px;
+}
+.hmenu1, .hmenu2, .hmenu3 {
+    display: inline-block;
+    position: absolute;
+    margin-left: 259px;
+    font-family: 'Lucida Sans Unicode', arial;
+    
+}
+.hmenu1 {
+    padding-left: 9px;
+    font-size: 11px;
+    border-right: 1px solid #c0cdd7;
+    padding-right: 4px;
+    top: 25px;
+}
+.hmenu2 {
+    padding-left: 44px;
+    font-size: 11px;
+    top: 25px;
+}
+.hmenu3 {
+    padding-left: 133px;
+    font-size: 12px;
+    text-decoration: underline;
+    color: #bfbfbf;
+    top: 24px;
+}
+.vhod, .reg, .pass {
+    text-decoration: none;
+    font-family: 'Lucida Sans Unicode', arial;
+}
+.vhod, .reg {
+    color: #fff;
+}
+.pass {
+    color: #bfbfbf;
+}
+.baner {
+    width: 909px;
+    height: 237px;
+    margin: 13px;
+    margin-left: -314px;
+}
+.imgheader {
+    width: 74px;
+    height: 19px;
+    border: 1px solid #c1c8cb;
+    border-radius: 8px 8px 8px 8px;
+    margin-left: 512px;
+    margin-top: -21px;
+    box-shadow:1px 1px 1px -1px rgba(0,0,0,1)
+}
+.imgh {
+    padding: 2px;
+    padding-left: 5px;
+}
+.menu {
+    width: 912px;
+    height: 35px;
+    background-image: linear-gradient(to top, black 0%, #576068 100%);
+    border-radius: 6px;
+    box-shadow: 1.5px 2.6px 5px rgba(0, 0, 0, 0.75);
+    margin-top: 304px;
+    margin-left: 45px;
+    
+}
+.gps {
+    display: inline-block;
+    margin-top: 10px;
+}
+.mgps1, .mgps2, .mgps3, .mgps4, .mgps5 {
+    text-decoration: none;
+    color: #b1bcc0;
+    font-family: "Lucida Sans Unicode";
+    font-size: 14px;
+    margin-top: 70px;
+    padding-right: 22px;
+}
+.hgps {
+    margin-left: 137px;
+}
+.mgps1 {
+    margin-right: 0px;
+}
+.mgps2 {
+    margin-right: 7px;
+}
+.mgps3 {
+    margin-right: 6px;
+}
+.mgps4 {
+    margin-right: 2px;
+    
+}
+.mgps1, .mgps2, .mgps3, .mgps4, .mgps5  {
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-top: 2px;
+    padding-bottom: 1px;  
+}
+.hgps li a:hover {
+	background-image: linear-gradient(to bottom, #206988 0%, #114165 59%, #0c3256 100%);
+	border-radius: 20px;
+}
+.layer {
+    margin-left: 683px;
+    margin-top: -17px;
+    position: absolute;
+}
+.item {
+    color: #0d5a8f;
+    font-family: arial;
+    font-size: 12px;
+    position: absolute;
+    margin-top: -14px;
+    margin-left: 760px;
+}
+.tovar {
+    color: #81898d;
+    font-size: 12px;
+    font-family: arial;
+    position: absolute;
+    margin-top: -14px;
+    margin-left: 711px;
+}
+.tovar2 {
+    color: #81898d;
+    font-size: 12px;
+    font-family: arial;
+    position: absolute;
+    margin-top: -14px;
+    margin-left: 781px;
+}
+.item2 {
+    color: #0d5a8f;
+    font-family: arial;
+    font-size: 12px;
+    position: absolute;
+    margin-top: -14px;
+    margin-left: 846px;
+}
+.product {
+    width: 181px;
+    height: 25px;
+    border: 1px solid #79878d;
+    box-shadow: 1.5px 2.6px 3px rgba(150, 150, 150, 0.75);
+    border-radius: 20px;
+    margin: 44px;
+    margin-top: 165px;
+}
+.prd1 {
+    margin: 2px;
+    margin-top: 1px;
+}
+.catalog {
+    font-family: "Lucida Sans Unicode";
+    color: #114165;
+    font-size: 13px;
+    margin-top: 7px;
+    position: absolute;
+    margin-left: 1px;
+    font-weight: 600;
+}
+.tires1 {
+    width: 148px;
+    height: 26px;
+    border: 1px solid #79878d;
+    border-radius: 13px;
+    margin-left: 46px;
+    margin-top: -31px;
+    position: absolute;
+}
+.circle1 {
+    margin: 1px;
+    margin-left: 3px;
+}
+.tirestext {
+    font-size: 14px;
+    margin-left: 1px;
+    position: absolute;
+    margin-top: 8px;
+    color: #0c3256;
+    font-family: "Lucida Sans Unicode";
+}
+.namet > li > a {
+    color: #465961;
+    font-family: "Lucida Sans Unicode";
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-bottom: 13px;
+    display: block;
+    position: relative;
+    top: 3px;
+    margin-left: 90px;
+}
+.namet > li > a:hover {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    color: #0c3256;
+}
+.disk1 {
+    width: 148px;
+    height: 26px;
+    border: 1px solid #79878d;
+    border-radius: 13px;
+    margin-left: 46px;
+    margin-top: -7px;
+    position: absolute;
+}
+.circle2, .circle2 {
+    margin: 1px;
+    margin-left: 2px;
+}
+.disktext {
+    font-size: 14px;
+    margin-left: 2px;
+    position: absolute;
+    margin-top: 7px;
+    color: #0c3256;
+    font-family: "Lucida Sans Unicode";
+}
+.namet2 > li > a {
+    color: #465961;
+    font-family: "Lucida Sans Unicode";
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-bottom: 13px;
+    display: block;
+    position: relative;
+    top: 26px;
+    margin-left: 90px;
+}
+.namet2 > li > a:hover {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    color: #0c3256;
+}
+.bolts {
+    width: 148px;
+    height: 26px;
+    border: 1px solid #79878d;
+    border-radius: 13px;
+    margin-left: 46px;
+    margin-top: 16px;
+    position: absolute;
+}
+.bolt {
+    font-size: 14px;
+    margin-left: 2px;
+    position: absolute;
+    margin-top: 7px;
+    color: #0c3256;
+    font-family: "Lucida Sans Unicode";
+}
+.bolts1 > li > a {
+    color: #465961;
+    font-family: "Lucida Sans Unicode";
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-bottom: 13px;
+    display: block;
+    position: relative;
+    top: 50px;
+    margin-left: 90px;
+}
+.bolts1 > li > a:hover {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    color: #0c3256;
+}
+.brand {
+    width: 181px;
+    height: 25px;
+    border: 1px solid #79878d;
+    box-shadow: 1.5px 2.6px 3px rgba(150, 150, 150, 0.75);
+    border-radius: 20px;
+    margin: 771px;
+    margin-top: -385px;
+}
+.produdct2 {
+    margin: 1px;
+    margin-left: 3px;
+}
+.brandtext {
+    font-size: 14px;
+    margin-left: 4px;
+    position: absolute;
+    margin-top: 6px;
+    color: #0c3256;
+    font-family: "Lucida Sans Unicode";
+}
+.tires2 {
+    width: 134px;
+    height: 27px;
+    border: 1px solid #79878d;
+    border-radius: 13px;
+    margin-left: 786px;
+    margin-top: -758px;
+    position: absolute;  
+}
+.circle3 {
+    margin: 2px;
+    margin-left: 3px;
+}
+.tirestext2 {
+    font-size: 14px;
+    margin-left: 1px;
+    position: absolute;
+    margin-top: 8px;
+    color: #0c3256;
+    font-family: "Lucida Sans Unicode";
+}
+.checkbox1 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -721px;
+    margin-left: 796px;
+}
+.brandt1, .brandt2, .brandt3, .brandtext1, .brandtext2, .brandtext3 {
+    font-family: "Lucida Sans Unicode";
+    color: #465961;
+    font-size: 13px;
+}
+.brandt1 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -739px;
+    margin-left: 820px;
+}
+.checkbox2 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -727px;
+    margin-left: 796px;
+}
+.brandt2 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -746px;
+    margin-left: 821px
+}
+.checkbox3 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -735px;
+    margin-left: 796px;
+}
+.brandt3 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -753px;
+    margin-left: 821px;
+}
+.disk2 {
+    width: 135px;
+    height: 28px;
+    border: 1px solid #79878d;
+    border-radius: 13px;
+    margin-left: 785px;
+    margin-top: -740px;
+    position: absolute;
+}
+.circle4 {
+    margin: 2px;
+    margin-left: 2px;
+}
+.disk2text {
+    font-size: 14px;
+    margin-left: 2px;
+    position: absolute;
+    margin-top: 8px;
+    color: #0c3256;
+    font-family: "Lucida Sans Unicode";
+}
+.checkboxt1 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -700px;
+    margin-left: 796px;
+}
+.brandtext1 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -719px;
+    margin-left: 820px;
+}
+.checkboxt2 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -706px;
+    margin-left: 796px;
+}
+.brandtext2 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -726px;
+    margin-left: 820px;
+}
+.checkboxt3 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -715px;
+    margin-left: 796px;
+}
+.brandtext3 {
+    margin: 1px;
+    margin-top: -29px;
+    position: relative;
+    top: -733px;
+    margin-left: 820px;
+}
+.selectimg {
+    position: absolute;
+    margin-top: -699px;
+    margin-left: -74px;
+}
+.allproduct {
+    width: 526px;
+    height: 627px;
+    background-image: linear-gradient(to top, rgba(35, 75, 93, 0.49) 0%, rgba(201, 207, 209, 0.49) 100%);
+    margin: auto;
+    margin-top: -990px;
+    border-radius: 6px;
+}
+.imgdisk1 {
+    margin-top: 41px;
+    margin-left: 20px;
+}
+.imgdisk2 {
+    margin-top: 42px;
+    margin-left: 25px;
+}
+.imgdisk3 {
+    margin-top: 42px;
+    margin-left: 24px;
+}
+.imgdisk4 {
+    margin-top: 71px;
+    margin-left: 21px;
+}
+.imgdisk5 {
+    margin-top: 55px;
+    margin-left: 23px;
+}
+.imgdisk6 {
+    margin-top: 71px;
+    margin-left: 24px;
+}
+.imgdisk7 {
+    margin-top: 71px;
+    margin-left: 21px;
+}
+.imgdisk8 {
+    margin-top: 71px;
+    margin-left: 24px;
+}
+.imgdisk9 {
+    margin-top: 71px;
+    margin-left: 24px;
+}
+.textp1, .textp2, .textp3  {
+    font-family: "Lucida Sans Unicode";
+    font-size: 15px;
+    color: #206988;
+    font-weight: bold;
+}
+.textp1 {
+    position: absolute;
+    top: 508px;
+    margin-left: 56px;
+}
+.textp2 {
+    position: absolute;
+    top: 710px;
+    margin-left: 56px;
+}
+.textp3 {
+    position: absolute;
+    top: 913px;
+    margin-left: 55px;
+}
+.textop1, .textop2, .textop3 {
+    font-family: "Lucida Sans Unicode";
+    font-size: 13px;
+    color: #1f2528;
+    text-decoration: none;
+}
+.textop1 {
+    position: relative;
+    top: -554px;
+    margin-left: 35px;
+}
+.textop2 {
+    position: relative;
+    top: -368px;
+    margin-left: 35px;
+}
+.textop3 {
+    position: absolute;
+    top: 928px;
+    margin-left: 34px;
+}
+.textp4, .textp5, .textp6 {
+    font-family: "Lucida Sans Unicode";
+    font-size: 15px;
+    color: #206988;
+    font-weight: bold;
+}
+.textp4 {
+    position: absolute;
+    top: 508px;
+    margin-left: 235px;
+}
+.textp5 {
+    position: absolute;
+    top: 709px;
+    margin-left: 234px;
+}
+.textp6 {
+    position: absolute;
+    top: 914px;
+    margin-left: 235px;
+}
+.textop4, .textop5, .textop6  {
+    font-family: "Lucida Sans Unicode";
+    font-size: 13px;
+    color: #1f2528;
+}
+.textop4 {
+    position: absolute;
+    top: 523px;
+    margin-left: 213px;
+}
+.textop5 {
+    position: absolute;
+    top: 724px;
+    margin-left: 212px;
+}
+.textop6 {
+    position: absolute;
+    top: 929px;
+    margin-left: 213px;
+}
+.price1, .price2, .price3 {
+    font-family: Arial;
+    font-style: italic;
+    color: #114165;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+}
+.price1 {
+    top: -405px;
+    margin-left: -96px;
+}
+.pricet1, .pricet2, .pricet3{
+    font-family: Arial;
+    font-style: italic;
+    color: #114165;
+    font-weight: bold;
+    font-size: 12px;
+    position: relative;
+}
+.pricet1 {
+    top: -405px;
+    margin-left: 4px;
+}
+.price2 {
+    position: relative;
+    top: -219px;
+    margin-left: -96px;
+}
+.pricet2 {
+    position: absolute;
+    top: 874px;
+    margin-left: 7px;
+}
+.price3 {
+    position: absolute;
+    top: 1075px;
+    margin-left: 60px;
+}
+.pricet3 {
+    top: 1078px;
+    margin-left: 107px;
+    position: absolute;
+}
+.price4, .price5, .price6 {
+    font-family: Arial;
+    font-style: italic;
+    color: #114165;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+}
+.pricet4, .pricet5, .pricet6 {
+    font-family: Arial;
+    font-style: italic;
+    color: #114165;
+    font-weight: bold;
+    font-size: 12px;
+    position: relative;  
+}
+.price4 {
+    position: absolute;
+    top: 670px;
+    margin-left: 224px; 
+}
+.pricet4 {
+    position: absolute;
+    top: 673px;
+    margin-left: 281px;
+}
+.price5 {
+    position: absolute;
+    top: 871px;
+    margin-left: 224px;
+}
+.pricet5 {
+    position: absolute;
+    top: 874px;
+    margin-left: 280px;
+}
+.price6 {
+    position: absolute;
+    top: 1076px;
+    margin-left: 224px;
+}
+.pricet6 {
+    position: absolute;
+    top: 1078px;
+    margin-left: 280px; 
+}
+.hankook1, .hankook2, .hankook3 {
+    font-family: "Lucida Sans Unicode";
+    font-size: 15px;
+    color: #206988;
+    font-weight: bold;
+}
+.hankooktext1, .hankooktext2, .hankooktext3 {
+    font-family: "Lucida Sans Unicode";
+    font-size: 13px;
+    color: #1f2528;
+}
+.hankookprice1, .hankookprice2, .hankookprice3 {
+    font-family: Arial;
+    font-style: italic;
+    color: #114165;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+}
+.grn1, .grn2, .grn3 {
+    font-family: Arial;
+    font-style: italic;
+    color: #114165;
+    font-weight: bold;
+    font-size: 12px;
+    position: relative;
+} 
+.hankook1 {
+    position: absolute;
+    top: 508px;
+    margin-left: 398px;
+}
+.hankooktext1 {
+    position: absolute;
+    top: 523px;
+    margin-left: 368px;
+}
+.hankookprice1 {
+    position: absolute;
+    top: 669px;
+    margin-left: 392px;
+}
+.grn1 {
+    position: absolute;
+    top: 672px;
+    margin-left: 449px;
+}
+.hankook2 {
+    position: absolute;
+    top: 709px;
+    margin-left: 397px;
+
+}
+.hankooktext2 {
+    position: absolute;
+    top: 724px;
+    margin-left: 368px;
+}
+.hankookprice2 {
+    position: absolute;
+    top: 871px;
+    margin-left: 392px;
+}
+.grn2 {
+    position: absolute;
+    top: 874px;
+    margin-left: 449px;
+}
+.hankook3 {
+    position: absolute;
+    top: 914px;
+    margin-left: 397px;
+
+}
+.hankooktext3 {
+    position: absolute;
+    top: 929px;
+    margin-left: 368px;
+}
+.hankookprice3 {
+    position: absolute;
+    top: 1075px;
+    margin-left: 392px;
+}
+.grn3 {
+    position: absolute;
+    top: 1078px;
+    margin-left: 449px;
+}
+.brandlogo1 {
+    position: absolute;
+    top: 1162px;
+    margin-left: -75px;
+}
+.brandlogo2 {
+    position: absolute;
+    top: 1162px;
+    margin-left: 20px;
+}
+.brandlogo3 {
+    position: absolute;
+    top: 1162px;
+    margin-left: 130px;
+}
+.brandlogo4 {
+    position: absolute;
+    top: 1162px;
+    margin-left: 223px;;
+}
+.brandlogo5 {
+    position: absolute;
+    top: 1163px;
+    margin-left: 293px;
+}
+.brandlogo6 {
+    position: absolute;
+    top: 1159px;
+    margin-left: 383px;
+}
+.brandlogo7 {
+    position: absolute;
+    top: 1163px;
+    margin-left: 453px;
+}
+.brandlogo8 {
+    position: absolute;
+    top: 1163px;
+    margin-left: 529px;
+}
+.f {
+    width: 907px;
+    height: 98px;
+    background-color: #213a4d;
+    border: 1px solid #242a3c;
+    margin-top: 89px;
+    margin-left: 46px;
+}
+.finfo1, .finfo2, .finfo3, .finfo4 {
+    text-decoration: none;
+    color: #bec6c9;
+    font-family: Arial;
+    font-size: 12px;
+}
+.finfoo1, .finfoo2, .finfoo3, .finfoo4  {
+    display: inline-block;
+    position: relative;
+    top: 8px;
+}
+.finfo {
+        padding-left: 307px;
+}
+.finfo1 {
+    margin-left: 0px;
+    border-right: 1px solid #7f8e98;
+    padding-right: 13px;
+}
+.finfo2 {
+    margin-left: 8px;
+    border-right: 1px solid #7f8e98;
+    padding-right: 15px;
+}
+.finfo3 {
+    margin-left: 8px;
+    border-right: 1px solid #7f8e98;
+    padding-right: 15px;
+}
+.finfo4 {
+    margin-left: 12px;
+}
+.finfo1:hover, .finfo2:hover, .finfo3:hover, .finfo4:hover {
+    color: #52abcb;
+}
+.end {
+    color: #7f4740;
+    font-size: 10px;
+    font-family: Arial;
+    position: absolute;
+    left: 875px;
+    top: 1251px;
+}
